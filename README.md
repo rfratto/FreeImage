@@ -1,4 +1,4 @@
-# freeimage 
+# FreeImage 
 
 **NOTE:** This project has only just been imported and does not yet support CMake builds. Stay tuned for a later commit that will have CMake support.
 
